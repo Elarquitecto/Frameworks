@@ -1,0 +1,113 @@
+body {
+	background-color: #B1B1B1;
+}
+
+.navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+	  background: #AB0002;
+	  opacity: 0.8;
+    }
+
+.article {
+	background-color: white;
+}
+
+.jumbotron {
+      margin-bottom: 0;
+    }
+   
+footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+.container-fluid {
+  margin-top: 10px;
+}
+
+.jumbotron {
+  background: #FFFFFF;
+  min-height: 250px;
+  border-radius: 0px !important;
+  margin-bottom: 0px;
+	background-image: url(http://wallpapercraft.net/wp-content/uploads/2016/04/Bring-Me-The-Horizon-Backgrounds.jpg);
+	background-position: center;
+	background-size: 100%;
+}
+
+@media screen and (max-width: 770px) {
+  .article {
+    align-content: center;
+  }
+
+  .jumbotron img {
+    width: 100%;
+	padding-bottom: 10%;
+  }
+	.menu ul{
+		text-align: center;
+		margin: 0;
+		padding: 0;
+	}
+	.menu li {
+		text-align: center;
+		margin: 0;
+		padding: 0;
+		display: inline;
+	}
+	.menu li a {
+		padding: 8px;
+	}
+}
+
+@media screen and (min-width: 770px) {
+	.menu ul {
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
+
+	.menu li {
+    	float: right;
+	}
+
+	.menu li a {
+		display: block;
+		padding: 8px;
+	}
+	
+}
+.twitter-blue { 
+	color: #1ec7fe; 
+	font-size: 250%;
+}
+
+.facebook-blue {
+	color: #3c599f;
+	font-size: 250%;
+}
+
+.linkedin-blue {
+	color: #0080b2;
+	font-size: 250%;
+}
+
+.youtube-red {
+	color: #D70606;
+	font-size: 250%;
+}
+
+.pinterest-red {
+	color: #D70606;
+	font-size: 250%;
+}
+#footer {
+	background-image: url(http://az616578.vo.msecnd.net/files/2016/05/09/635983505329496433385654456_concert-audience.jpg);
+	background-position: center;
+	background-size: 95%;
+}
+
+.container a img {
+	opacity: 0.8;
+}

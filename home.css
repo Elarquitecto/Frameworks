@@ -1,0 +1,95 @@
+body {
+	background-image: url(http://static.tumblr.com/82803256d9ea6324ea84e1ef87e02583/zgbow4y/WWcndk1i0/tumblr_static_7nsjp5x04ewws4s40ws4k08os.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;  
+  	background-position: center center;
+}
+
+a, a:visited {
+    text-decoration: underline; 
+}
+
+a {
+  color: #008cba;
+  text-decoration: none;
+  line-height: inherit; 
+}
+  
+a:hover, a:focus {
+    color: #007ba0; 
+}
+  a img {
+    border: none; 
+}
+
+#Header {
+	background: rgba(209,209,209,1);
+background: -moz-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(105,228,203,1) 50%, rgba(0,158,137,1) 75%, rgba(79,77,78,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(209,209,209,1)), color-stop(50%, rgba(105,228,203,1)), color-stop(75%, rgba(0,158,137,1)), color-stop(100%, rgba(79,77,78,1)));
+background: -webkit-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(105,228,203,1) 50%, rgba(0,158,137,1) 75%, rgba(79,77,78,1) 100%);
+background: -o-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(105,228,203,1) 50%, rgba(0,158,137,1) 75%, rgba(79,77,78,1) 100%);
+background: -ms-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(105,228,203,1) 50%, rgba(0,158,137,1) 75%, rgba(79,77,78,1) 100%);
+background: linear-gradient(to right, rgba(209,209,209,1) 0%, rgba(105,228,203,1) 50%, rgba(0,158,137,1) 75%, rgba(79,77,78,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d1d1d1', endColorstr='#4f4d4e', GradientType=1 );
+}
+
+#Logo {
+	background-image: url(http://del.h-cdn.co/assets/15/32/980x980/gallery-1438811927-weeknight-dinner-fattoush.jpg);
+	background-size: 100%;
+	color:blanchedalmond;
+	text-shadow: 0 -1px 1px black;
+}
+
+#Logo h1 {
+	font-family: 'Alex Brush', cursive;
+}
+
+#contenido {
+	background-color: rgba(9, 251, 221,0.5); 
+}
+#left {
+	background-color: rgba(3, 97, 78,0.7); 
+}
+
+#left2 {
+	background-color: lavender;
+}
+#right {
+	background-color: rgba(9, 251, 221,0.0);
+	border: none;
+}
+
+#right2 {
+	background-color: rgba(255,240,181,1.00);
+}
+
+#especial {
+	border: none;
+}
+
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+.visitas {
+	color: darksalmon;
+}
+
+.menu .button {
+	color: white;
+	background-color: transparent;
+	font-weight: bold;
+}
+.menu .button:hover {
+	color: grey;
+	background-color: blanchedalmond;
+	border: 2px solid #6CD8C5;
+}
+
+img.mediana {
+	width: auto; height: 50%;
+}
